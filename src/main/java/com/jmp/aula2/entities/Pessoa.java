@@ -3,6 +3,7 @@ package com.jmp.aula2.entities;
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -20,7 +21,7 @@ public class Pessoa {
 	private Double salario;
 	private String nome;
 	
-	@ManyToOne
+	@ManyToOne()
 	@JoinColumn(name="departamento_id")
 	private Departamento departamento;
 	

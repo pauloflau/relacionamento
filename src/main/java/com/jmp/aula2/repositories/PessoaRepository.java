@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import com.jmp.aula2.entities.Pessoa;
 
+
 @Repository
 public interface PessoaRepository extends JpaRepository<Pessoa, Long>{
-
 }

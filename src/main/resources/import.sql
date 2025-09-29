@@ -1,5 +1,6 @@
 INSERT INTO tb_departamento(nome) VALUES ('Administrativo');
 INSERT INTO tb_departamento (nome) VALUES ('Produção');
+INSERT INTO tb_departamento (nome) VALUES ('Tecnico');
 
 INSERT INTO tb_pessoa (nome, salario, departamento_id) VALUES ('Ana', 5000.0, 1);
 INSERT INTO tb_pessoa (nome, salario, departamento_id) VALUES ('Joao', 4000.0, 1);
@@ -20,3 +21,4 @@ INSERT INTO tb_produto_categoria (produto_id, categoria_id) VALUES (2, 2);
 INSERT INTO tb_produto_categoria (produto_id, categoria_id) VALUES (2, 3);
 INSERT INTO tb_produto_categoria (produto_id, categoria_id) VALUES (3, 3);
 INSERT INTO tb_produto_categoria (produto_id, categoria_id) VALUES (4, 3);
+
