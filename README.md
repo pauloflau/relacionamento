@@ -70,6 +70,11 @@ Este projeto é um exemplo simples de aplicação **Spring Boot** com **JPA/Hibe
 - Uma Pessoa pertence a um Departamento (@ManyToOne).
 - O cadastro de pessoa é feito informando apenas o id do departamento existente.
 
-    
+---
+
+## 📧 Contato
+
+Caso queira trocar ideias ou sugerir melhorias:  
+[LinkedIn](https://www.linkedin.com/in/paulo-flau-43b667382/) 
 
 
