@@ -75,6 +75,7 @@ Este projeto é um exemplo simples de aplicação **Spring Boot** com **JPA/Hibe
 ## 📧 Contato
 
 Caso queira trocar ideias ou sugerir melhorias:  
-[LinkedIn](https://www.linkedin.com/in/pauloflau/) 
+**Paulo Flau**
+- [LinkedIn](https://www.linkedin.com/in/pauloflau/) 
 
 
